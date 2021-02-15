@@ -10,10 +10,10 @@
   Estou fazendo minha transição de carreira para a área de Tecnologia pois é isso que me traz inspiração e paixão, são os desafios dessa área que me motivam a fazer a diferença, me impulsionam a aprender sempre mais e também compartilhar conhecimento.
   Sou uma mulher dedicada nos estudos, resiliente, sincera, honesta, criativa, atenciosa, séria, comprometida com prazos e metas, tenho sede por conhecimento, sei trabalhar em conjunto e sou adaptável a qualquer ambiente e situação.
 
-**Sou responsável e aberta para oportunidades:
--[x] Freelancer
--[x] CLT
--[x] PJ**
+**Sou responsável e aberta para oportunidades**
+- **Freelancer**
+- **CLT**
+- **PJ**
 
 :thought_balloon: :speech_balloon: _"Never Stop Learning" & "Aprender a Aprender"_ :speech_balloon: :thought_balloon:
 
