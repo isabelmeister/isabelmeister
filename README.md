@@ -35,4 +35,9 @@
 * MongoDB
 * API Rest/Restful
 
-## Espero que tenha gostado!
+## Certificados
+
+- [Fundamentos do Desenvolvimento Web](https://drive.google.com/file/d/1vgrxvUkxXJwNE6Wi1_TgRloSfogv8Ww-/view)
+- [Desenvolvimento Front-End](https://drive.google.com/file/d/1yo2jYHj5-FJaWDkrH-vEqsyqpFuFfpUL/view)
+
+## Sinta-se á vontade e volte sempre!
