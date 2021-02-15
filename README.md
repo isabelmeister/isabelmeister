@@ -19,20 +19,20 @@
 
 ## Conhecimentos
 
-*HTML
-*CSS
-*Git
-*GitHub
-*Unix & Bash
-*JavaScript
-*Testes Unitários
-*React
-*React Hooks
-*React Redux
-*React Testing Library
-*Context API
-*MySQL
-*MongoDB
-*API Rest/Restful
+* HTML
+* CSS
+* Git
+* GitHub
+* Unix & Bash
+* JavaScript
+* Testes Unitários
+* React
+* React Hooks
+* React Redux
+* React Testing Library
+* Context API
+* MySQL
+* MongoDB
+* API Rest/Restful
 
 ## Espero que tenha gostado!
