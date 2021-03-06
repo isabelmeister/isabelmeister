@@ -3,7 +3,7 @@
 ## Sobre mim
 
   Muito prazer, pode me chamar de Isabel. Nasci e resido em Florianópolis - Santa Catarina, Brasil.
-  Sou **Desenvolvedora Web** | **Front-End** _(full-stack em formação)_. Atualmente, me dedico ao curso da **Trybe** _(previsão de conclusão: Junho/2021)_.
+  Sou **Desenvolvedora Web** | **Front-End** _(full-stack em formação)_.
   Estou fazendo minha transição de carreira para a área de Tecnologia pois é isso que me traz inspiração e paixão, são os desafios dessa área que me motivam a fazer a diferença, me impulsionam a aprender sempre mais e também compartilhar conhecimento.
   Sou uma mulher dedicada nos estudos, resiliente, sincera, honesta, criativa, atenciosa, séria, comprometida com prazos e metas, tenho sede por conhecimento, sei trabalhar em conjunto e sou adaptável a qualquer ambiente e situação.
 
