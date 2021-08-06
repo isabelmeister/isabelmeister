@@ -34,8 +34,11 @@
 
 ## Certificados
 
-- [Fundamentos do Desenvolvimento Web](https://drive.google.com/file/d/1vgrxvUkxXJwNE6Wi1_TgRloSfogv8Ww-/view)
-- [Desenvolvimento Front-End](https://drive.google.com/file/d/1yo2jYHj5-FJaWDkrH-vEqsyqpFuFfpUL/view)
+- [Fundamentos do Desenvolvimento Web](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/35140273)
+- [Desenvolvimento Front-End](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/35140870)
+- [Desenvolvimento Back-End](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/32740812)
+- [Ciência da Computação](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/35141892)
+- [Conclusão da Formação em Desenvolvimento Web](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/35696738)
 
 ## Sinta-se livre para me contactar e volte sempre!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/isabelmeister)
