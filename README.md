@@ -1,4 +1,4 @@
-# Bem vindos(as)!!! 👋
+# Bem vindes!!! 👋
 
 ## Sobre mim
 
